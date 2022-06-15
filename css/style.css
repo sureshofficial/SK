@@ -1,0 +1,158 @@
+
+
+body{
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  letter-spacing: 0.5px;
+
+}
+.about{
+  font-family: 'Righteous', cursive;
+  font-size: 0.65rem;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 200px;
+}
+.name{
+  color: #0A81AB;
+  font-size: 4.375rem;
+  font-family: 'Sacramento', cursive;
+  letter-spacing: 2px;
+  margin: 0 auto 0 auto;
+}
+.top-clouds{
+  width: 150px;
+  position: absolute;
+  right: 70px;
+  top: 70px;
+}
+.bottom-clouds{
+  width: 150px;
+  position: absolute;
+  left: 70px;
+  top: 320px;
+}
+.programmer{
+
+  width: 40%;
+}
+
+.dp{
+  border: dotted #79DAE8 7px;
+  width: 250px;
+  height: 250px;
+  border-radius: 200px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background-size: cover;
+}
+.middle-container{
+  margin: 100px auto;
+}
+.bottom-container{
+  background-color: #0A81AB;
+  padding: 50px 0 20px;
+}
+
+.intro{
+  width: 30%;
+  margin:  auto;
+  font-size: 1.3rem;
+}
+p{
+  line-height: 2;
+  font-size: 1rem;
+
+}
+h2{
+  color: #0A81AB;
+  padding-bottom: 10px;
+  letter-spacing: 1.5px;
+  font-size: 2.5rem;
+}
+h3{
+    color: #0A81AB;
+    letter-spacing: 1.5px;
+    font-family: 'Righteous', cursive;
+}
+hr{
+  border: dotted #79DAE8 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+a{
+  color: #79DAE8;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+a:hover{
+  color: white;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.cap{
+  width:25%;
+  margin-left: 40px;
+  float: right;
+
+}
+.gif{
+  width:30%;
+  border-radius: 200px;
+  float: left;
+  margin-right: 40px;
+}
+.contact-message{
+  width: 30%;
+  margin: 40px auto 60px;
+}
+.btn{
+    background: #0A81AB;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 25%;
+    border-end-end-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-end-start-radius: 25px;
+    width: 10%;
+    margin:auto;
+    padding: 15px 25px 15px 25px;
+    text-decoration: none;
+}
+.btn:hover{
+  background: #0AA1DD;
+  color: white;
+  cursor: pointer;
+  border-radius: 25%;
+  border-end-end-radius: 25px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-end-start-radius: 25px;
+  width: 10%;
+  margin:auto;
+  padding: 15px 25px 15px 25px;
+  text-decoration: none;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+.postulate{
+      color: black;
+      font-size: 1rem;
+}
+.postulate:hover{
+    color: #0A81AB;
+    font-size: 1rem;
+}
